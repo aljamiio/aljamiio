@@ -49,6 +49,16 @@ I enjoy understanding how software works end to end — from a useful user inter
 
 </div>
 
+## ◈ Developer Quest Board
+
+<div align="center">
+
+<img src="assets/developer-quest-board.svg" width="100%" alt="Developer quest board showing learning goals and active quests"/>
+
+</div>
+
+*Your developer journey, represented as quests. Levels and progress are descriptive milestones, not automatically calculated scores.*
+
 ## ◈ Current Mission
 
 <table>
