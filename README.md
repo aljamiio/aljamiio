@@ -117,10 +117,6 @@ Explore [all repositories](https://github.com/aljamiio?tab=repositories) for cou
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aljamiio&theme=transparent&hide_border=true&background=0B1220&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=D6DEEB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8996AA" alt="GitHub contribution streak"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aljamiio&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub achievement trophies"/>
-
 </div>
 
 ## ◈ Contribution Graph
