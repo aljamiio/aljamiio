@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+<title id="title">Md. Jubayer Al Jami — Aspiring Software Engineer</title>
+<desc id="desc">Dark navy and black technology banner with electric blue accents.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050912"/><stop offset=".58" stop-color="#0B1424"/><stop offset="1" stop-color="#111F35"/></linearGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#93C5FD" stroke-opacity=".055"/></pattern>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563EB" stop-opacity="0"/><stop offset=".5" stop-color="#60A5FA" stop-opacity=".85"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1600" height="420" fill="url(#bg)"/><rect width="1600" height="420" fill="url(#grid)"/>
+<circle cx="1370" cy="105" r="260" fill="#2563EB" opacity=".09"/><circle cx="1430" cy="360" r="210" fill="#38BDF8" opacity=".05"/>
+<path d="M1030 -20L1320 440M1170 -20L1460 440M1310 -20L1600 440" stroke="#60A5FA" stroke-opacity=".10" stroke-width="2"/>
+<path d="M0 348H1600" stroke="url(#glow)" stroke-width="2"/>
+<rect x="100" y="91" width="5" height="230" rx="2.5" fill="#60A5FA"/>
+<text x="139" y="163" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-1">Md. Jubayer Al Jami</text>
+<text x="142" y="224" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="650" letter-spacing="1.2">Aspiring Software Engineer</text>
+<text x="142" y="270" fill="#C0CAD8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" letter-spacing=".15">Final-Year CSE Student  •  Full-Stack Web Developer</text>
+<g transform="translate(1335 208)" fill="none" stroke="#60A5FA" stroke-width="2.5" opacity=".78"><path d="M-54 -42L-100 0L-54 42M54 -42L100 0L54 42M18 -66L-18 66"/><circle r="116" stroke-opacity=".18"/><circle r="143" stroke-opacity=".10" stroke-dasharray="4 11"/></g>
+<text x="142" y="356" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="3">SOFTWARE ENGINEERING / CONTINUOUS IMPROVEMENT</text>
+</svg>
